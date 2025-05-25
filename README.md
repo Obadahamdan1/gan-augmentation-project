@@ -28,5 +28,3 @@ Synthetic Rain images were generated to augment the dataset and improve CNN clas
 
 ## Report
 📄 See `GAN_Report_Obada_0227167.pdf` for full write-up
-
-## Video
