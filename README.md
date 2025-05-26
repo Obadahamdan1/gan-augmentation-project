@@ -20,7 +20,7 @@ Synthetic Rain images were generated to augment the dataset and improve CNN clas
 | LSGAN          | 93%      | 0.95    |
 
 ## Demo Video
-🎥 [Link to your video here]
+🎥 https://drive.google.com/file/d/1Kp1Rlq2Qi-n_rVaGc-BUKy7uz35tH5aY/view?usp=drive_link
 
 ## How to Run
 1. Run any of the `gan_*.py` files to generate Rain images
